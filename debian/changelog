@@ -1,3 +1,9 @@
+teensy-common (1.1) unstable; urgency=low
+
+  * Update package description
+
+ -- Jaakko Kantojärvi <jaakko@n-1.fi>  Sat, 16 Nov 2013 19:59:10 +0200
+
 teensy-common (1.0) unstable; urgency=low
 
   * Udev rules for teensy devices
