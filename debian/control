@@ -11,5 +11,8 @@ Vcs-Browser: http://github.com/raphendyr/teensy-common
 Package: teensy-common
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: Common files for teensy related tools
+ Teensy is product from http://www.pjrc.com/teensy/
+ .
+ These common files include:
+  * udev rules allowing write to teensy for users in plugdev group
