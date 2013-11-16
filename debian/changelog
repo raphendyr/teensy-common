@@ -1,0 +1,5 @@
+teensy-common (1.0) unstable; urgency=low
+
+  * Udev rules for teensy devices
+
+ -- Jaakko Kantojärvi <jaakko@n-1.fi>  Sat, 16 Nov 2013 15:20:49 +0200
